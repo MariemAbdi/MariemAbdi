@@ -1,12 +1,14 @@
 <div align="center">
-
-<h1 style="font-size: 3em;">
-  <span>Mariem</span> <strong>Abdi</strong>
-</h1>
+  
+<h1>Mariem <strong>Abdi</strong></h1>
 
 <h3>Flutter Developer</h3>
 
-<p><em>Turning ideas into polished, production-ready apps — cross-platform, clean architecture, real users.</em></p>
+<p>
+  Hey there! 👋 I'm a Flutter developer who loves crafting mobile experiences<br/>
+  that feel great to use — from the first tap to the last screen.<br/>
+  Whether it's a side project or a production app, I bring the same care to all of it.
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Available%20for%20Freelance-007f73?style=flat&logoColor=white" />
@@ -40,8 +42,16 @@
 
 ### 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-007f73?style=flat-square&logo=firefox&logoColor=white)](https://mariem-abdi-portfolio.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-007f73?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariem-abdi/)
-[![Email](https://img.shields.io/badge/Email-007f73?style=flat-square&logo=gmail&logoColor=white)](mailto:mariem.abdi2000@gmail.com)
+<p align="center">
+  <a href="https://mariem-abdi-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-007f73?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mariem-abdi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mariem.abdi2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
