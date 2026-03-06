@@ -11,7 +11,7 @@
 
 <p>
   <a href="https://mariem-abdi-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Available%20for%20Freelance-4caf50?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Available%20for%20Freelance-4caf50?style=flat&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/2%2B%20Years%20Experience-007f73?style=for-the-badge&logoColor=white" />
@@ -41,7 +41,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-007f73?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 ---
 
