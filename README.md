@@ -1,35 +1,47 @@
-<h1 align="center">Hi, I'm Mariem Abdi 👋</h1>
-<h3 align="center">Flutter Developer · Cross-Platform Mobile Apps · Tunisia</h3>
+<div align="center">
 
-<p align="center">
-  Flutter developer with 2+ years of experience building production-ready mobile apps.<br/>
-  6+ projects completed · 3 apps published on the App Store & Google Play.
+<h1 style="font-size: 3em;">
+  <span>Mariem</span> <strong>Abdi</strong>
+</h1>
+
+<h3>Flutter Developer</h3>
+
+<p><em>Turning ideas into polished, production-ready apps — cross-platform, clean architecture, real users.</em></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Available%20for%20Freelance-007f73?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/2%2B%20Years%20Experience-007f73?style=flat" />
+  <img src="https://img.shields.io/badge/3%20Apps%20Published-007f73?style=flat" />
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=flat)
-![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=flat)
-![Provider](https://img.shields.io/badge/Provider-6366F1?style=flat)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-007f73?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-007f73?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-007f73?style=flat-square&logo=firebase&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-007f73?style=flat-square&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-007f73?style=flat-square&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-007f73?style=flat-square&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-007f73?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-007f73?style=flat-square&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-007f73?style=flat-square&logo=android-studio&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-007f73?style=flat-square&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity
 
-[![Mariem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariemAbdi&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/MariemAbdi)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MariemAbdi&theme=dark&hide_border=true&ring=007f73&fire=007f73&currStreakLabel=007f73&sideLabels=007f73&dates=ffffff)](https://github.com/MariemAbdi)
 
 ---
 
 ### 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://mariem-abdi-portfolio.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariem-abdi/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariem.abdi2000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-007f73?style=flat-square&logo=firefox&logoColor=white)](https://mariem-abdi-portfolio.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007f73?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariem-abdi/)
+[![Email](https://img.shields.io/badge/Email-007f73?style=flat-square&logo=gmail&logoColor=white)](mailto:mariem.abdi2000@gmail.com)
+
+</div>
