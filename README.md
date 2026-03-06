@@ -32,16 +32,16 @@
 
 **State Management**
 
-![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-6366F1?style=for-the-badge&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=flat&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=flat&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-6366F1?style=flat&logoColor=white)
 
 **Tools & IDEs**
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-007f73?style=for-the-badge&logo=android-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-007f73?style=flat&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 ---
 
@@ -55,15 +55,15 @@
 
 <p>
   <a href="https://mariem-abdi-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-007f73?style=for-the-badge&logo=webflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-007f73?style=flat&logo=webflow&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mariem-abdi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:mariem.abdi2000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
