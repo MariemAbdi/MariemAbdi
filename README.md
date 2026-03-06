@@ -45,7 +45,13 @@
 ### 📈 GitHub Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MariemAbdi&theme=dark&hide_border=true&ring=007f73&fire=007f73&currStreakLabel=007f73&sideLabels=007f73&dates=ffffff)](https://github.com/MariemAbdi)
+### 📈 GitHub Activity
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MariemAbdi&theme=transparent&hide_border=true&ring=007f73&fire=007f73&currStreakLabel=007f73&sideLabels=007f73&dates=888888&stroke=007f73" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=MariemAbdi&show_icons=true&theme=transparent&hide_border=true&icon_color=007f73&title_color=007f73&text_color=888888&ring_color=007f73" height="165" />
+</p>
 ---
 
 ### 🌐 Connect
