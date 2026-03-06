@@ -1,20 +1,17 @@
 <div align="center">
 
 <h1>Mariem <strong>Abdi</strong></h1>
-<h3>Flutter Developer</h3>
 
 <p>
-  Hey there! 👋 I'm a Flutter developer who loves crafting mobile experiences<br/>
+  Hey there! 👋 I'm a <b>Flutter</b> developer who loves crafting mobile experiences<br/>
   that feel great to use — from the first tap to the last screen.<br/>
   Whether it's a side project or a production app, I bring the same care to all of it.
 </p>
 
 <p>
-  <a href="https://mariem-abdi-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Available%20for%20Freelance-4caf50?style=flat&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Available%20for%20Freelance-4caf50?style=flat&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/2%2B%20Years%20Experience-007f73?style=flate&logoColor=white" />
+  <img src="https://img.shields.io/badge/2%2B%20Years%20Experience-007f73?style=flat&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/3%20Apps%20Published-007f73?style=flat&logoColor=white" />
 </p>
@@ -38,10 +35,10 @@
 
 **Tools & IDEs**
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-007f73?style=flat&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-007f73?style=flat&logo=androidstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
 
 ---
 
@@ -54,16 +51,16 @@
 ### 🌐 Connect
 
 <p>
-  <a href="https://mariem-abdi-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-007f73?style=flat&logo=webflow&logoColor=white" />
+  <a href="https://mariem-abdi-portfolio.web.app/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Portfolio-007f73?style=for-the-badge&logo=webflow&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/mariem-abdi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mariem-abdi/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:mariem.abdi2000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:mariem.abdi.dev@gmail.com" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
