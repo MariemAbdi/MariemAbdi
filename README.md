@@ -11,12 +11,12 @@
 
 <p>
   <a href="https://mariem-abdi-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Available%20for%20Freelance-007f73?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/Available%20for%20Freelance-4caf50?style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/2%2B%20Years%20Experience-555555?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/2%2B%20Years%20Experience-007f73?style=for-the-badge&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/3%20Apps%20Published-555555?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/3%20Apps%20Published-007f73?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -25,23 +25,23 @@
 
 **Core**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD8500?style=flat-square&logo=firebase&logoColor=white)
-![Android](https://img.shields.io/badge/Android-2E7D32?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD8500?style=for-the-badge&logo=firebase&logoColor=white)
+![Android](https://img.shields.io/badge/Android-2E7D32?style=for-the-badge&logo=android&logoColor=white)
 
 **State Management**
 
-![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=flat-square&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=flat-square&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-6366F1?style=flat-square&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-6366F1?style=for-the-badge&logoColor=white)
 
 **Tools & IDEs**
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-007f73?style=flat-square&logo=android-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-007f73?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -55,15 +55,15 @@
 
 <p>
   <a href="https://mariem-abdi-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-007f73?style=flat-square&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-007f73?style=for-the-badge&logo=webflow&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mariem-abdi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:mariem.abdi2000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
