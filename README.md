@@ -52,15 +52,15 @@
 
 <p>
   <a href="https://mariem-abdi-portfolio.web.app/" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Portfolio-007f73?style=for-the-badge&logo=webflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-007f73?style=flat&logo=webflow&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mariem-abdi/" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:mariem.abdi.dev@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
